@@ -1,0 +1,26 @@
+[
+  {
+    "id": "scarves",
+    "title": "Wool Scarves",
+    "desc": "Warm, breathable scarves woven from alpaca wool.",
+    "theme": "placeholder-brown"
+  },
+  {
+    "id": "blankets",
+    "title": "Cozy Blankets",
+    "desc": "Soft throws designed for comfort and warmth.",
+    "theme": "placeholder-cream"
+  },
+  {
+    "id": "accessories",
+    "title": "Handmade Accessories",
+    "desc": "Hats and mittens crafted with traditional techniques.",
+    "theme": "placeholder-gray"
+  },
+  {
+    "id": "yarn",
+    "title": "Alpaca Yarn",
+    "desc": "Natural fiber for knitting and crafting projects.",
+    "theme": "placeholder-brown"
+  }
+]
